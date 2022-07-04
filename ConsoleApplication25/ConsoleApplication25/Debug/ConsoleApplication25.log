@@ -1,0 +1,4 @@
+﻿  ConsoleApplication25.cpp
+C:\Users\Batch Clayderman\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(42,18): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Batch Clayderman\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(44,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  ConsoleApplication25.vcxproj -> C:\Users\Batch Clayderman\source\repos\ConsoleApplication25\Debug\ConsoleApplication25.exe
